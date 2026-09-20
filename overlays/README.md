@@ -18,3 +18,4 @@ BRC | Standard
 136  | [Block-Anchored Overlay Synchronization via Block-Aligned Sparse Merkle Trees (BASM)](./0136.md)
 167  | [Chunked, Hashed, Interleaved Resolution Protocol (CHIRP)](./0167.md)
 178  | [Race-Settled Collection Markets for Overlay Lookups and Message Boxes](./0178.md)
+180  | [Overlay Service Discovery at an Internet Domain](./0180.md)

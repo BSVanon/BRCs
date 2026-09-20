@@ -145,6 +145,7 @@
 * [Private Overlays with P2PKH Transactions](./overlays/0081.md)
 * [Standardized Naming Conventions for BRC-22 Topic Managers and BRC-24 Lookup Services](./overlays/0087.md)
 * [Overlay Services Synchronization Architecture](./overlays/0088.md)
+* [Overlay Service Discovery at an Internet Domain](./overlays/0180.md)
 * [Diverse Facilitators and URL Protocols for SHIP and SLAP Overlay Advertisements](./overlays/0101.md)
 * [Block-Anchored Overlay Synchronization via Block-Aligned Sparse Merkle Trees (BASM)](./overlays/0136.md)
 * [Chunked, Hashed, Interleaved Resolution Protocol (CHIRP)](./overlays/0167.md)
