@@ -91,7 +91,7 @@ overlays/media/0192-0199/.venv/bin/python tokens/media/0197/verify-script.py
 ```
 
 Node dependencies are locked to @bsv/sdk 2.8.10. Python uses BitcoinX 0.9,
-cryptography 46.0.3 and cbor2 5.7.1, with the full resolved versions recorded in
+cryptography 50.0.0 and cbor2 5.9.0, with the full resolved versions recorded in
 requirements-lock.txt. The test scripts perform no network calls, wallet
 transactions, broadcasts or deployments. All private scalars, CEKs, nonces and
 funding outputs in the corpus are **public test material**.
