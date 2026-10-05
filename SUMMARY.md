@@ -197,6 +197,7 @@
 * [Single-Use Signed Proofs for Request Authentication](./peer-to-peer/0138.md)
 * [Fountain-Coded Air-Gap Transport for Arbitrary Payloads](./peer-to-peer/0141.md)
 * [Universal Handle Addressing and Resolution for the Metanet](./peer-to-peer/0169.md)
+* [Pairwise Authentication](./peer-to-peer/0182.md)
 * [Operating Practices for Identity Certifiers](./peer-to-peer/0200.md)
 * [Social Account Certificate Types and Issuance Profile](./peer-to-peer/0201.md)
 * [Identity-Key Decentralized Identifiers](./peer-to-peer/0202.md)

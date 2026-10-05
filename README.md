@@ -246,6 +246,7 @@ BRC | Standard
 179  | [Signed Capability Manifest for Wallet and Tool-Server Method Exposure](./wallet/0179.md)
 180  | [Overlay Service Discovery at an Internet Domain](./overlays/0180.md)
 181  | [Wallet-Enforced Autonomous-Agent Spend Policy](./wallet/0181.md)
+182  | [Pairwise Authentication](./peer-to-peer/0182.md)
 183  | [A Framework for Strict and Federated Overlays](./overlays/0183.md)
 184  | [Optional Metadata Registries and Their Stewardship](./wallet/0184.md)
 186  | [Thoughts on UTXO-Driven Applications and Private Overlays](./opinions/0186.md)
